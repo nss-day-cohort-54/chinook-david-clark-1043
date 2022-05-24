@@ -1,4 +1,6 @@
--- Provide a query that shows the invoices associated with each sales agent. The resultant table should include:
+-- Provide a query that shows the invoices 
+-- associated with each sales agent. 
+-- The resultant table should include:
 -- Sales Agent's full name
 -- Invoice ID
 
